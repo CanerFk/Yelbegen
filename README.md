@@ -16,8 +16,6 @@
 ## Yelbegen: 563731
 - 👤 Caner Furkan Karali 
 - 👤 Berra Özyurt
-....
-
 
 ## Veri Seti Kaynakları
 ### Türk Eğitim Sistemi
