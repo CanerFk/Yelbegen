@@ -5,7 +5,7 @@
 
 ````
 .
-├── training
+├── training.ipynb
 ├── training_args.yaml
 ├── datasets/
 │   └── soru_cevap.json
