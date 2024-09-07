@@ -9,6 +9,7 @@
 ├── training_args.yaml
 ├── datasets/
 │   └── soru_cevap.json
+├── requirements.txt
 └── README.md
 ````
 
