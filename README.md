@@ -1,7 +1,7 @@
 *Bu proje TEKNOFEST 2024 Antalya T3AI Hackathon Yarışması İnce Ayarlama Kategorisi için geliştirilmiştir.*
 
 # Yelbegen_v1
-## Proje Hackathon içerisinde 4 farklı kategoride verilen modelin yeteneklerini geliştirmek üzerine geliştirilmiştir.
+## Proje Hackathon içerisinde 4 farklı kategoride verilen modelin yeteneklerini arttırmak üzerine geliştirilmiştir.
 
 ````
 .
