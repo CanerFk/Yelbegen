@@ -5,7 +5,7 @@
 
 ````
 .
-├── training.ipynb
+├── tuning.ipynb
 ├── training_args.yaml
 ├── datasets/
 │   └── soru_cevap.json
@@ -25,4 +25,4 @@
 ### Tarım
 
 ## İnce Ayarlama Süreci Başlatma
-training klasörü içerisindeki training.py dosyasını çalıştırarak llamaFactory üzerinden verilen parametreleri girerek ince ayarlama sürecini başlatabilirsiniz. 
+training klasörü içerisindeki tuning.ipynb dosyasını çalıştırarak llamaFactory üzerinden verilen parametreleri girerek ince ayarlama sürecini başlatabilirsiniz. 
